@@ -1,0 +1,4 @@
+train_loader_300: 8000 samples
+val_loader_300:   2000 samples
+
+##if N300 = 10 000

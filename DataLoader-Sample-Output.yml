@@ -1,0 +1,4 @@
+Batch X shape: [64, 2, WINDOW_SIZE]
+Batch Y shape: [64]
+dtype(X): float32
+dtype(Y): int64
